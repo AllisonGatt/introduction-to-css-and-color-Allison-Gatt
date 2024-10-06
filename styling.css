@@ -53,10 +53,10 @@ header {
   }
   
   h2 {
-      text-align: center;
+      text-align: left;
       font-family: "Times New Roman", Times, serif;
       color:#FF7F50;
-      border: solid white;
+      border-right: #E6E6FA;
       margin: 5px;
       padding:5px;
   }
