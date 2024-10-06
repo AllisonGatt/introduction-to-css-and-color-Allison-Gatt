@@ -66,6 +66,7 @@ header {
     column-rule-style: solid;
     column-rule-width: 2px;
     column-rule-color: #2F4F4F;
+  }
   p {
       text-align: center;
       font-family: "Times New Roman", Times, serif;
