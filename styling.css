@@ -81,7 +81,7 @@ header {
       color: #FF7F50;
       margin: 10px;
       padding: 10px;
-      background-color: #8B4513;
+      border: 3px solid #8B4513;
   }
   
   input[type=text] {
