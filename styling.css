@@ -128,7 +128,10 @@ textarea {
 label[for="email"] {
     color: #A0522D;
 }
-label[for="text"] {
+label[for="name"] {
     color: #4682B4;
+}
+label[for="message"] {
+    color: #3B2F2F;
 }
  
