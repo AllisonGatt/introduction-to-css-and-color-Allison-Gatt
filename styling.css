@@ -74,6 +74,7 @@ header {
   }
   p {
       text-align: center;
+      width:75%;
       font-family: "Times New Roman", Times, serif;
       color: #8B4513;
       margin: 10px;
