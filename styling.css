@@ -125,5 +125,10 @@ textarea {
       cursor: pointer;
       width:100%;
   }
-
+label[for="email"] {
+    color: #A0522D;
+}
+label[for="text"] {
+    color: #4682B4;
+}
  
