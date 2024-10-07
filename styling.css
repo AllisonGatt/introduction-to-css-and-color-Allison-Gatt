@@ -87,7 +87,7 @@ header {
     margin: 8px 0;
     box-sizing: border-box;
     background-color: #FFDAB9;
-    color:white;
+    color:#2F4F4F;
     border-radius: 5px;
   }
   input[type=email] {
@@ -96,7 +96,7 @@ header {
     margin: 8px 0;
     box-sizing: border-box;
     background-color: #F0E68C;
-    color:white;
+    color:#2F4F4F;
     border-radius: 5px;
   }
 
@@ -109,14 +109,14 @@ textarea {
       border-radius: 5px;
       background-color: #F4A460;
       resize: none;
-      color:white;
+      color:#2F4F4F;
       font-size: 16px;
   }
 
   input[type=button] {
       background-color: #FF6347;
       border: none;
-      color: white;
+      color: #2F4F4F;
       padding: 16px 32px;
       text-decoration: none;
       margin: 4px 2px;
